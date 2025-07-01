@@ -10,13 +10,12 @@
   --color-red-dark: #e03131;
   --color-primary-rgb: 103, 65, 217;
 }
-/* Nice custom scrollbars for modern browsers */
 .box::-webkit-scrollbar {
   width: 0.8rem;
 }
 
 .box::-webkit-scrollbar-track {
-  background: transparent; /* matches the glass */
+  background: transparent; 
 }
 
 .box::-webkit-scrollbar-thumb {
@@ -30,7 +29,7 @@
   background-color: rgba(var(--color-primary-rgb), 0.7);
 }
 
-/* Firefox support */
+
 .box {
   scrollbar-width: thin;
   scrollbar-color: rgba(var(--color-primary-rgb), 0.4) transparent;
@@ -55,7 +54,7 @@ body {
   padding: 2.4rem;
 }
 
-/* ******* */
+
 
 .nav-bar {
   display: grid;
@@ -64,7 +63,7 @@ body {
   height: 7.2rem;
   padding: 0 3.2rem;
 
-  background: rgba(var(--color-primary-rgb), 0.15); /* deep purple tint */
+  background: rgba(var(--color-primary-rgb), 0.15); 
   border-radius: 0.9rem;
 
   backdrop-filter: blur(20px) saturate(180%);
@@ -154,7 +153,7 @@ body {
   padding: 4.8rem;
 }
 
-/* ******* */
+
 
 .logo {
   display: flex;
@@ -182,7 +181,6 @@ body {
   transition: all 0.3s;
   color: var(--color-text);
 
-  /* background-color: var(--color-background-900); */
   background-color: var(--color-primary-light);
 }
 
@@ -290,7 +288,6 @@ body {
   background-color: var(--color-red-dark);
 }
 
-/* ******* */
 
 .summary {
   padding: 2.2rem 3.2rem 1.8rem 3.2rem;
@@ -319,7 +316,6 @@ body {
   gap: 0.8rem;
 }
 
-/* ******* */
 
 .details {
   line-height: 1.4;
