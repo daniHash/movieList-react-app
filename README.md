@@ -1,6 +1,8 @@
 # My movielist project
 
-A beautiful and modern React app with glassmorphism style and dark theme and smooth scroll bars. It shows the list of series and movies that you can add to your watch list.
+
+🎥MovieList React App — A stylish glassmorphism movie tracker built with React. Search for movies, rate them, and add them to your watched list — all in a clean, modern interface. 🍿
+
 
 # Preview
 
