@@ -1,19 +1,49 @@
-# My movielist project
+# 🎬 MovieList React App
 
+A **glassmorphism-styled** movie tracker built with React.  
+Search movies, rate them, and manage your watched list in a clean, modern UI.
 
-🎥MovieList React App — A stylish glassmorphism movie tracker built with React. Search for movies, rate them, and add them to your watched list — all in a clean, modern interface. 🍿
+---
 
-
-# Preview
-
+## 📷 Preview
 ![Screenshot of project](image.png)
 
-## 🚀 Installation
+---
 
+## 🧰 Table of Contents
+- [Features](#-features)  
+- [Tech Stack](#-tech-stack)  
+- [Getting Started](#-getting-started)  
+  - [Prerequisites](#prerequisites)  
+  - [Installation](#installation)  
+  - [Running Locally](#running-locally)  
+- [Usage](#-usage)  
+- [Folder Structure](#-folder-structure)  
+- [Contributing](#-contributing)  
+- [License](#-license)  
+- [Contact](#-contact)  
+
+---
+
+## 🚀 Features
+- 🔍 Search for movies  
+- ⭐ Rate movies  
+- ✅ Add to “Watched” list  
+- 🎨 Modern glassmorphism UI  
+
+---
+
+## 🧱 Tech Stack
+- React (Vite)  
+- CSS (Glassmorphism design)  
+- ESLint  
+
+---
+
+
+### Installation
 ```bash
 git clone https://github.com/daniHash/movieList-react-app.git
 cd movieList-react-app
-
-npm i
+npm install
 npm run dev
-```
