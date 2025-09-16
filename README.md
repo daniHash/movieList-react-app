@@ -14,14 +14,8 @@ Search movies, rate them, and manage your watched list in a clean, modern UI.
 - [Features](#-features)  
 - [Tech Stack](#-tech-stack)  
 - [Getting Started](#-getting-started)  
-  - [Prerequisites](#prerequisites)  
   - [Installation](#installation)  
-  - [Running Locally](#running-locally)  
-- [Usage](#-usage)  
-- [Folder Structure](#-folder-structure)  
-- [Contributing](#-contributing)  
-- [License](#-license)  
-- [Contact](#-contact)  
+
 
 ---
 
