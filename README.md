@@ -1,4 +1,3 @@
-## This line is for YOLO achievement
 # 🎬 MovieList React App
 
 A **glassmorphism-styled** movie tracker built with React.  
